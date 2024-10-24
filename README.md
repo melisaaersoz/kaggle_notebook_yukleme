@@ -47,3 +47,6 @@ Test Kayıp Değeri: XX (gerçek kayıp değeriyle değiştirin)
 Veri seti Kaggle tarafından sağlanmıştır.
 Derin öğrenme çerçevesi: TensorFlow/Keras.
 Görüntü işleme: OpenCV.
+
+# Kaggle notebook linki
+https://www.kaggle.com/code/melisaersoz/a-large-scale-dataset-deeplearning
