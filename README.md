@@ -49,4 +49,4 @@ Derin öğrenme çerçevesi: TensorFlow/Keras.
 Görüntü işleme: OpenCV.
 
 # Kaggle notebook linki
-https://www.kaggle.com/code/melisaersoz/a-large-scale-dataset-deeplearning
+https://www.kaggle.com/code/melisaersoz/fish-dataset-deeplearning
