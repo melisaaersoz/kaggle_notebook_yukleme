@@ -40,8 +40,8 @@ Sınıflandırma Raporu (Precision, Recall, F1-Score)
 Veri setindeki balık türlerinin dağılımını görselleştirmek için Seaborn ile bir countplot çizildi.
 Modelin eğitim ve doğrulama doğruluğu/kayıp eğrileri, eğitim sonrası çizildi.
 Sonuçlar:
-Test Doğruluğu: 0,9356
-Test Kayıp Değeri: 0,1990
+Test Doğruluğu: 0,9444
+Test Kayıp Değeri: 0.1707
 
 ## Teşekkür
 Veri seti Kaggle tarafından sağlanmıştır.
